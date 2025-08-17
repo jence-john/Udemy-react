@@ -21,4 +21,4 @@ This project demonstrates **modern UI design, reusable components, and course li
 ---
 
 ##   Live Demo
-You can access my portfolio website by visiting (https://perfumy-react-self-psi.vercel.app/) . Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting (https://udemy-react-one-pied.vercel.app/) . Feel free to explore the content and get in touch!
